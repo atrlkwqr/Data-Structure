@@ -1,0 +1,6 @@
+﻿  mergesort.cpp
+c:\users\j7557\onedrive\바탕 화면\2-2\자료구조_나승훈_과제\자료구조_나승훈_과제2\sort\mergesort.cpp(53): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  quicksort.cpp
+  test_sort_comp.cpp
+  코드를 생성하고 있습니다...
+  SORT.vcxproj -> C:\Users\j7557\OneDrive\바탕 화면\2-2\자료구조_나승훈_과제\자료구조_나승훈_과제2\x64\Debug\SORT.exe

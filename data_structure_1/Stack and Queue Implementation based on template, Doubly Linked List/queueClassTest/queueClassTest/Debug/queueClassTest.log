@@ -1,0 +1,9 @@
+﻿  queueClassTest.cpp
+c:\users\j7557\onedrive\바탕 화면\자료구조_나승훈_과제1\queueclasstest\queueclasstest\queueclasstest.cpp(25): warning C4101: 'Temp' :참조되지 않은 지역 변수입니다.
+  c:\users\j7557\onedrive\바탕 화면\자료구조_나승훈_과제1\queueclasstest\queueclasstest\queueclasstest.cpp(24): note: 클래스 템플릿 멤버 함수 'queueClass<std::string>::~queueClass(void)'을(를) 컴파일하고 있습니다.
+  c:\users\j7557\onedrive\바탕 화면\자료구조_나승훈_과제1\queueclasstest\queueclasstest\queueclasstest.cpp(101): note: 컴파일 중인 함수 템플릿 인스턴스화 'queueClass<std::string>::~queueClass(void)'에 대한 참조를 확인하십시오.
+  c:\users\j7557\onedrive\바탕 화면\자료구조_나승훈_과제1\queueclasstest\queueclasstest\queueclasstest.cpp(101): note: 컴파일 중인 클래스 템플릿 인스턴스화 'queueClass<std::string>'에 대한 참조를 확인하세요.
+c:\users\j7557\onedrive\바탕 화면\자료구조_나승훈_과제1\queueclasstest\queueclasstest\queueclasstest.cpp(78): warning C4715: 'queueClass<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::IsEmpty': 모든 제어 경로에서 값을 반환하지는 않습니다.
+c:\users\j7557\onedrive\바탕 화면\자료구조_나승훈_과제1\queueclasstest\queueclasstest\queueclasstest.cpp(78): warning C4715: 'queueClass<int>::IsEmpty': 모든 제어 경로에서 값을 반환하지는 않습니다.
+c:\users\j7557\onedrive\바탕 화면\자료구조_나승훈_과제1\queueclasstest\queueclasstest\queueclasstest.cpp(78): warning C4715: 'queueClass<double>::IsEmpty': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  queueClassTest.vcxproj -> C:\Users\j7557\OneDrive\바탕 화면\자료구조_나승훈_과제1\queueClassTest\Debug\queueClassTest.exe

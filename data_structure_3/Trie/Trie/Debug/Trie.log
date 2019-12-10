@@ -1,0 +1,4 @@
+﻿  Trie.cpp
+c:\users\j7557\onedrive\바탕 화면\자료구조_나승훈_과제\자료구조_나승훈_과제3\trie\trie\trie.cpp(13): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\j7557\onedrive\바탕 화면\자료구조_나승훈_과제\자료구조_나승훈_과제3\trie\trie\trie.cpp(29): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Trie.vcxproj -> C:\Users\j7557\OneDrive\바탕 화면\자료구조_나승훈_과제\자료구조_나승훈_과제3\Trie\Debug\Trie.exe

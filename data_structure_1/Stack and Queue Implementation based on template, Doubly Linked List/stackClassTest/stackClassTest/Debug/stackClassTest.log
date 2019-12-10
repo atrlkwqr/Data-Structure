@@ -1,0 +1,5 @@
+﻿  stackClassTest.cpp
+c:\users\j7557\onedrive\바탕 화면\자료구조_나승훈_과제1\stackclasstest\stackclasstest\stackclasstest.cpp(91): warning C4715: 'stackClass<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::IsEmpty': 모든 제어 경로에서 값을 반환하지는 않습니다.
+c:\users\j7557\onedrive\바탕 화면\자료구조_나승훈_과제1\stackclasstest\stackclasstest\stackclasstest.cpp(91): warning C4715: 'stackClass<int>::IsEmpty': 모든 제어 경로에서 값을 반환하지는 않습니다.
+c:\users\j7557\onedrive\바탕 화면\자료구조_나승훈_과제1\stackclasstest\stackclasstest\stackclasstest.cpp(91): warning C4715: 'stackClass<double>::IsEmpty': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  stackClassTest.vcxproj -> C:\Users\j7557\OneDrive\바탕 화면\자료구조_나승훈_과제1\stackClassTest\Debug\stackClassTest.exe
